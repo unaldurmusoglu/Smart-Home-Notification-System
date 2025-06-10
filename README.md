@@ -51,6 +51,4 @@ Unit and instrumented test stubs are located under `app/src/test` and `app/src/a
 
 (Instrumented tests require an Android device or emulator.)
 
-## License
-This repository does not include an explicit license. If you plan to use or distribute this code, please add an appropriate `LICENSE` file.
 
